@@ -1,0 +1,2 @@
+Ocean_a.bmp: 16225008.0
+Ocean_b.bmp: 26485866.0
